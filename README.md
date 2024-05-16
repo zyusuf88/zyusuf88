@@ -1,9 +1,11 @@
 
 ![github-header-image (1)](https://github.com/zyusuf88/zyusuf88/assets/97973445/e667012d-a27c-4962-983e-3044dd938f8e)
 
-# <h1 align="center">Hi 👋, I'm Zeynab</h1>
+<h1 align="center">Hi <img src="https://github.com/zyusuf88/2-Tier-Web-Application/assets/97973445/af2b6192-565c-4063-8278-95c4eaae1a23" width="70px" style="vertical-align:middle"> I'm Zeynab</h1>
+
+
+</center>
 <h3 align="center"> DevOps Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*8QoNE7NqYqqlJrn_8MoIkQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zyusuf88&label=Profile%20views&color=0e75b6&style=flat" alt="zyusuf88" /> </p>
 
