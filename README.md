@@ -11,7 +11,7 @@
 - 📝 I’m currently studying for **AWS cloud practitioner**
 -  🌱 I’m currently learning **all things Cloud + DevOps**
 - 📫 How to reach me **y.zeynab1@outlook.com**
--  ⚡ Fun fact **I can do a handstand for 1 min**
+
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
