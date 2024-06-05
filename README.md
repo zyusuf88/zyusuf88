@@ -9,9 +9,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zyusuf88&label=Profile%20views&color=0e75b6&style=flat" alt="zyusuf88" /> </p>
 
-- 🔭 My most recent project was [Deploying a 2 Tier Architecture On AWS](https://github.com/zyusuf88/2-Tier-Web-Application)
+- 🔭 My most recent project was [AWS S3 Bucket Creation using Terraform](https://github.com/zyusuf88/aws-s3-terraform))
 - 📝 I’m currently studying for **AWS cloud practitioner**
--  🌱 I’m currently learning **all things Cloud + DevOps**
+-  🌱 I’m currently learning **All things Cloud + DevOps**
 - 📫 How to reach me **y.zeynab1@outlook.com**
 
  
