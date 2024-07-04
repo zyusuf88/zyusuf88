@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zyusuf88&label=Profile%20views&color=0e75b6&style=flat" alt="zyusuf88" /> </p>
 
-- 🔭 My most recent project: [Hosting WordPress on EC2](https://github.com/zyusuf88/WordPress-deployment-on-EC2)
+- 🔭 My most recent project: [Automating wordpress deployment using terraform](https://github.com/zyusuf88/Deploying-WordPress-with-Terraform)
 - 📝 I’m currently studying for **AWS Certified Cloud Practitioner (CLF-C02)**
 -  🌱 I’m currently learning **All things Cloud + DevOps**
 - 📫 How to reach me **y.zeynab1@outlook.com**
