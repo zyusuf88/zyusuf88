@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zyusuf88&label=Profile%20views&color=0e75b6&style=flat" alt="zyusuf88" /> </p>
 
-- 🔭 My most recent project: **[Dockerized Visitor Tracking App with Flask and Redis](https://github.com/zyusuf88/Dockerized-visitor-tracking-app-with-flask-and-redis)**
+- 🔭 My most recent project: **[End-to-End Hangman App Deployment using Docker, EC2 & ECR ](https://github.com/zyusuf88/End-to-End-Hangman-App-Deployment-using-Docker-EC2-ECR))**
 - 📝 I’m currently studying for **AWS Certified Cloud Practitioner (CLF-C02)**
 -  🌱 I’m currently learning **All things Cloud + DevOps**
 - 📫 How to reach me **y.zeynab1@outlook.com**
