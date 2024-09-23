@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zyusuf88&label=Profile%20views&color=0e75b6&style=flat" alt="zyusuf88" /> </p>
 
-- 🔭 My most recent project: **[End-to-End Hangman App Deployment using Docker, EC2 & ECR ](https://github.com/zyusuf88/End-to-End-Hangman-App-Deployment-using-Docker-EC2-ECR)**
+- 🔭 My most recent project: **[Dual Web Servers with Cloudflare ](https://github.com/zyusuf88/nginx-apache-cloudflare-setup)**
 - 📝 I’m currently studying for **AWS Certified Cloud Practitioner (CLF-C02)**
 -  🌱 I’m currently learning **All things Cloud + DevOps**
 
