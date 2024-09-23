@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zyusuf88&label=Profile%20views&color=0e75b6&style=flat" alt="zyusuf88" /> </p>
 
-- 🔭 My most recent project: **[Dual Web Servers with Cloudflare ](https://github.com/zyusuf88/nginx-apache-cloudflare-setup)**
+- 🔭 My most recent project: **[nginx-deployment-minikube ](https://github.com/zyusuf88/nginx-deployment-minikube)**
 - 📝 I’m currently studying for **AWS Certified Cloud Practitioner (CLF-C02)**
 -  🌱 I’m currently learning **All things Cloud + DevOps**
 
