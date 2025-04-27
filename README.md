@@ -9,8 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zyusuf88&label=Profile%20views&color=0e75b6&style=flat" alt="zyusuf88" /> </p>
 
-- 🔭 My most recent project: **[Threat-composer](https://github.com/zyusuf88/threat-composer)**
-- 📝 I’m currently studying for **AWS Certified Cloud Practitioner (CLF-C02)**
+- 🔭 My most recent project: **[devsecops-pipeline](https://github.com/zyusuf88/devsecops-pipeline)**
 -  🌱 I’m currently learning **All things Cloud + DevOps**
 
 
@@ -28,6 +27,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zyusuf88&show_icons=true&locale=en&layout=compact" alt="zyusuf88" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zyusuf88&show_icons=true&locale=en" alt="zyusuf88" /></p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/zyusuf88"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="zyusuf88" /></a></p><br><br>
 
 
 
