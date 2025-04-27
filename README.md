@@ -16,7 +16,7 @@
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/zeynab-yusuf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zeynab-yusuf/" height="30" width="40" /></a><a href="https://medium.com/@y.zeynab1" target="blank"><img align="center" src="https://github.com/zyusuf88/aws-s3-terraform/assets/97973445/7c949050-1e2c-4082-85e1-e6ac8f055b9b" alt="@y.zeynab1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zeynab-yusuf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zeynab-yusuf/" height="30" width="40" /></a><a href="https://medium.com/@y.zeynab1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@y.zeynab1" height="30" width="40" /></a>
 </p>
  
 <h3 align="left">Tech Stack:</h3>
