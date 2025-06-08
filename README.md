@@ -10,7 +10,7 @@
 </p>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=zyusuf88&label=Profile%20views&color=0e75b6&style=flat" alt="zyusuf88" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zyusuf88&label=Profile%20views&color=0e75b6&style=flat" alt="zyusuf88" /> </p>
 
 ![AWS Community Builder](https://img.shields.io/badge/AWS_Community_Builder-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![DevOps](https://img.shields.io/badge/DevOps-Infrastructure-blueviolet?style=for-the-badge&logo=githubactions)
 
